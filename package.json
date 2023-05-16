@@ -4,7 +4,8 @@
   "description": "Sample web worker app",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --mode development"
+    "start": "webpack-dev-server --mode development",
+    "build": "webpack"
   },
   "keywords": [],
   "author": "",
